@@ -11,7 +11,7 @@
 
 ### 🏅 Highlights
 - 🎖️ **Google Student Ambassador** *(Reselected)*
-- 🧠 **IBM SkillBuild** AI & ML Intern
+- 🧠 **IBM SkillBuild** AI & ML Inter
 - 🐾 Built **Animal Detection & Alert System** — YOLOv8 + EfficientNet-B0 + Arduino + GPS + Twilio SMS    
 - 🏫 Built **LeaveSync** — full-stack leave management app for college (React + Firebase)
 - 🌍 Portfolio: [yugal0708.github.io](https://yugal0708.github.io)
