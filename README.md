@@ -14,8 +14,7 @@
 - 🧠 **IBM SkillBuild** AI & ML Intern
 - 🐾 Built **Animal Detection & Alert System** — YOLOv8 + EfficientNet-B0 + Arduino + GPS + Twilio SMS    
 - 🏫 Built **LeaveSync** — full-stack leave management app for college (React + Firebase)
-- 🌍 Portfolio: [yugal0708.github.io](https://yugal0708.github.io)
-
+- 🌍 Portfolio: https://yugall-portfolio.vercel.app/
 
 
 ## 🌐 Socials:
